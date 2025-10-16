@@ -39,7 +39,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{6047C245
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroyanAV.Sprint2.Task4.V26", "Tyuiu.AroyanAV.Sprint2.Task4.V26\Tyuiu.AroyanAV.Sprint2.Task4.V26.csproj", "{12949B08-76B0-47AB-BB14-B6A3E21D688A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c", "Tyuiu.AroyanAV.Sprint2.Task4.V26.Lib\c.csproj", "{0A8FCAF4-1F12-4ADF-BB86-59191001193D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroyanAV.Sprint2.Task4.V26.Lib", "Tyuiu.AroyanAV.Sprint2.Task4.V26.Lib\Tyuiu.AroyanAV.Sprint2.Task4.V26.Lib.csproj", "{0A8FCAF4-1F12-4ADF-BB86-59191001193D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroyanAV.Sprint2.Task4.V26.Test", "Tyuiu.AroyanAV.Sprint2.Task4.V26.Test\Tyuiu.AroyanAV.Sprint2.Task4.V26.Test.csproj", "{ED1EECD0-384F-4A1D-A33D-ABE4BFDBB8FD}"
 EndProject
