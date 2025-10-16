@@ -9,9 +9,9 @@ namespace Tyuiu.AroyanAV.Sprint2.Task7.V12.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double y = 1, x = 2;
+            double y = 1, x = 1;
             var res = ds.CheckDotInShadedArea(x, y);
-            Assert.IsFalse(res);
+            Assert.IsTrue(res);
         }
     }
 }
